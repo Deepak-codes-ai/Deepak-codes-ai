@@ -6,16 +6,16 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+## 👨‍💻 Programming Languages
 
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge\&logo=cplusplus)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 
 ---
 
-### 🌐 MERN Stack
+## 🌐 MERN Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge\&logo=mongodb)
 ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express)
@@ -30,13 +30,13 @@
 
 ---
 
-### 🎬 Animation
+## 🎬 Animation
 
 ![Framer Motion](https://img.shields.io/badge/Motion-black?style=for-the-badge\&logo=framer)
 
 ---
 
-### 🚀 Deployment & Tools
+## 🚀 Deployment & Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge\&logo=github)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
