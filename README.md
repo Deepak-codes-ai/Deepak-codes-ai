@@ -64,7 +64,7 @@
 
 ## 🚀 Projects
 
-* 🎟️ Tickect Management System
+* 📚 AI Notes Generater
 * 🔐 JWT Authentication System
 * 👱 PortFolio 
 
